@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: 39.105.82.150
   client:
   #声明自己是个服务端
     registerWithEureka: false
